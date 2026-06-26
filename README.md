@@ -135,19 +135,7 @@ See [docs/database.md](docs/database.md) and [docs/data_dictionary.md](docs/data
 
 ## Screenshots
 
-Screenshots should be captured from the local Streamlit dashboard after launching the app:
-
-```powershell
-streamlit run app/streamlit_app.py
-```
-
-Recommended captures:
-
-- Dispatch Overview KPI and charts
-- Optimization Planner results table
-- Route Map with vehicle paths
-- SLA Risk and Exceptions table
-- What-if Simulation result
+![Dispatch Overview dashboard](docs/screenshots/dispatch-overview.png)
 
 ## Testing
 
