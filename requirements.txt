@@ -1,0 +1,13 @@
+pandas>=2.2.0
+numpy>=1.26.0
+ortools>=9.10.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+streamlit>=1.36.0
+plotly>=5.22.0
+folium>=0.17.0
+sqlalchemy>=2.0.0
+pydantic>=2.7.0
+faker>=25.0.0
+pytest>=8.2.0
+

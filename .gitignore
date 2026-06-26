@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and local state
+.env
+*.log
+
+# Generated project data
+data/raw/*
+data/processed/*
+outputs/dispatch_plans/*
+outputs/maps/*
+outputs/reports/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/sample/.gitkeep
+!outputs/dispatch_plans/.gitkeep
+!outputs/maps/.gitkeep
+!outputs/reports/.gitkeep
+
+# Local instruction briefs, not public project artifacts
+port_yard_dispatch_optimization_planner.md
+
