@@ -1,0 +1,41 @@
+node_id,node_name,node_type,latitude,longitude,region,operating_start,operating_end
+NODE-001,Jebel Ali Port Gate,Port Gate,25.0118,55.0617,Jebel Ali,05:00,23:00
+NODE-002,Jebel Ali Logistics Yard,Yard,24.9927,55.0904,Jebel Ali,05:00,23:00
+NODE-003,Dubai South Hub,Hub,24.9048,55.1614,Dubai South,05:00,23:00
+NODE-004,Abu Dhabi Freight Depot,Depot,24.4539,54.3773,Abu Dhabi,05:00,23:00
+NODE-005,Sharjah Cross Dock,Warehouse,25.3463,55.4209,Sharjah,05:00,23:00
+NODE-006,Ajman Distribution Hub,Hub,25.4052,55.5136,Ajman,05:00,23:00
+NODE-007,Al Ain Inland Depot,Depot,24.1302,55.8023,Al Ain,05:00,23:00
+NODE-008,Ras Al Khaimah Yard,Yard,25.8007,55.9762,Ras Al Khaimah,05:00,23:00
+NODE-009,Fujairah Port Warehouse,Warehouse,25.1288,56.3265,Fujairah,05:00,23:00
+CUST-001,Jebel Ali Customer 001,Customer,25.028559,55.004501,Jebel Ali,07:00,21:00
+CUST-002,Dubai South Customer 002,Customer,24.956531,55.054093,Dubai South,07:00,21:00
+CUST-003,Abu Dhabi Warehouse 003,Warehouse,24.460931,54.359907,Abu Dhabi,07:00,21:00
+CUST-004,Sharjah Customer 004,Customer,25.299383,55.469267,Sharjah,07:00,21:00
+CUST-005,Ajman Customer 005,Customer,25.408832,55.575598,Ajman,07:00,21:00
+CUST-006,Al Ain Warehouse 006,Warehouse,24.082939,55.822581,Al Ain,07:00,21:00
+CUST-007,Ras Al Khaimah Customer 007,Customer,25.849015,55.973454,Ras Al Khaimah,07:00,21:00
+CUST-008,Fujairah Customer 008,Customer,25.091349,56.39374,Fujairah,07:00,21:00
+CUST-009,Jebel Ali Customer 009,Customer,24.988242,55.042333,Jebel Ali,07:00,21:00
+CUST-010,Dubai South Customer 010,Customer,24.924899,55.1841,Dubai South,07:00,21:00
+CUST-011,Abu Dhabi Customer 011,Customer,24.571691,54.354947,Abu Dhabi,07:00,21:00
+CUST-012,Sharjah Customer 012,Customer,25.301542,55.454779,Sharjah,07:00,21:00
+CUST-013,Ajman Customer 013,Customer,25.398933,55.467391,Ajman,07:00,21:00
+CUST-014,Al Ain Customer 014,Customer,24.165983,55.843179,Al Ain,07:00,21:00
+CUST-015,Ras Al Khaimah Customer 015,Customer,25.736284,56.006073,Ras Al Khaimah,07:00,21:00
+CUST-016,Fujairah Customer 016,Customer,25.141569,56.332918,Fujairah,07:00,21:00
+CUST-017,Jebel Ali Customer 017,Customer,25.059729,55.073998,Jebel Ali,07:00,21:00
+CUST-018,Dubai South Customer 018,Customer,24.908517,55.177302,Dubai South,07:00,21:00
+CUST-019,Abu Dhabi Customer 019,Customer,24.373756,54.359718,Abu Dhabi,07:00,21:00
+CUST-020,Sharjah Warehouse 020,Warehouse,25.311162,55.405767,Sharjah,07:00,21:00
+CUST-021,Ajman Customer 021,Customer,25.357579,55.566855,Ajman,07:00,21:00
+CUST-022,Al Ain Customer 022,Customer,24.111781,55.811251,Al Ain,07:00,21:00
+CUST-023,Ras Al Khaimah Warehouse 023,Warehouse,25.839817,56.019834,Ras Al Khaimah,07:00,21:00
+CUST-024,Fujairah Customer 024,Customer,25.103371,56.373689,Fujairah,07:00,21:00
+CUST-025,Jebel Ali Warehouse 025,Warehouse,24.941637,54.999369,Jebel Ali,07:00,21:00
+CUST-026,Dubai South Customer 026,Customer,24.932144,55.169233,Dubai South,07:00,21:00
+CUST-027,Abu Dhabi Customer 027,Customer,24.430401,54.38602,Abu Dhabi,07:00,21:00
+CUST-028,Sharjah Warehouse 028,Warehouse,25.329286,55.446023,Sharjah,07:00,21:00
+CUST-029,Ajman Customer 029,Customer,25.385232,55.492604,Ajman,07:00,21:00
+CUST-030,Al Ain Customer 030,Customer,24.156983,55.776483,Al Ain,07:00,21:00
+CUST-031,Ras Al Khaimah Customer 031,Customer,25.827141,56.000759,Ras Al Khaimah,07:00,21:00
